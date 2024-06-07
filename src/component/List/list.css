@@ -1,0 +1,32 @@
+ul {
+  text-align: left;
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+  background-color: #FFF8EA;
+  padding: 10px;
+  font-size: 17px;
+  color: rgb(18, 18, 19);
+  margin-top: 10px;
+  border-radius: 5px;
+  box-shadow: 0 5px 6px #02020286;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+ul li i {
+  cursor: pointer;
+}
+
+ul li .icons {
+  display: flex;
+  gap: 10px;
+  
+}
+
+
+
